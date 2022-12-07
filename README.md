@@ -70,4 +70,4 @@ This repo is based on [SEGA](https://github.com/MartaYang/SEGA), [Dynamic Few-Sh
 Thanks for their wonderful works.
 
 #### Contact
-If you have any question about this project, please feel free to contact 
+If you have any question about this project, please feel free to contact luqiang20@mails.ucas.ac.cn.
