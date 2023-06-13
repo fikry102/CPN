@@ -1,5 +1,6 @@
 #### Compositional Prototypical Networks for Few-Shot Classification
 For details see the [paper](https://arxiv.org/abs/2306.06584)
+
 Official PyTorch implementation of **Compositional Prototypical Networks for Few-Shot Classification**
 
 The paper has been accepted by **AAAI 2023**.
